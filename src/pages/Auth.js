@@ -9,6 +9,7 @@ class AuthPage extends Component {
   };
 
   static contextType = AuthContext;
+
   constructor(props) {
     super(props);
 
